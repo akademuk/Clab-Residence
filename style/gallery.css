@@ -1,0 +1,26 @@
+.slider-for {
+  width: 965px !important;
+  height: 80%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.slider-for .slider__item {
+  height: 100vh !important;
+}
+
+.slider-for .slider__item img {
+  min-width: 100%;
+  width: 100%;
+}
+
+.gallery {
+  display: flex;
+}
+
+.gallery_left_img {
+  display: flex;
+  width: 30%;
+}
+/*# sourceMappingURL=gallery.css.map */

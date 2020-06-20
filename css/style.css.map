@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "mappings": "ACGA,OAAO,CAAP,0EAAO;AACP,OAAO,CAAP,qEAAO",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/base/_index.scss",
+        "../scss/base/_fonts.scss",
+        "../scss/base/_vars.scss",
+        "../scss/base/_base.scss",
+        "../scss/layout/_index.scss",
+        "../scss/layout/_header.scss",
+        "../scss/layout/_main.scss",
+        "../scss/layout/_footer.scss",
+        "../scss/modules/_index.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
